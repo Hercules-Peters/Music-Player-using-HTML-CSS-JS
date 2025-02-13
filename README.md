@@ -1,5 +1,4 @@
-Here's a complete **README.md** file for your **Deep Music Player** project:  
-
+ 
 ---
 
 ## 🎵 Deep Music Player  
@@ -12,7 +11,7 @@ Try it out here: [Deep Music Player](https://deepmusic.tiiny.site)
 ---
 
 ### 📸 Screenshot  
-![Music Player UI](images/music app photo.png)
+![Music Player UI](images/screenshot.jpg)
 
 ---
 
