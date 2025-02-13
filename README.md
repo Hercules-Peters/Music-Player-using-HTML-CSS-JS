@@ -11,7 +11,7 @@ Try it out here: [Deep Music Player](https://deepmusic.tiiny.site)
 ---
 
 ### 📸 Screenshot  
-![Music Player UI](images/screenshot.jpg)
+![Music Player UI](music app/assest/image/screenshot.jpg)
 
 ---
 
@@ -85,5 +85,3 @@ Want to improve this project? Feel free to fork the repo, make changes, and subm
 This project is open-source and available under the **MIT License**.  
 
 ---
-
-This README provides all necessary details, including an example of a song playing and instructions on adding new tracks. Let me know if you'd like any changes! 🎶🔥
